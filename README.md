@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU1_VNDV.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 26/02/2025
 
 Proyecto: 
 
