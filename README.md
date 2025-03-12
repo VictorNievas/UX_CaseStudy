@@ -37,6 +37,11 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
+
+### 1.a User Reseach Plan
+![Método UX](img/Competitive.png) 
+-----
+
 >>> User Research Plan: Mercados Ecológicos
 El objetivo de este proyecto es evaluar la usabilidad y experiencia de usuario en plataformas relacionadas con mercados ecológicos. Nos centraremos en cómo los usuarios interactúan con estos mercados, que ofrecen productos locales y ecológicos, para identificar barreras de navegación y áreas de mejora. La investigación busca entender cómo los consumidores perciben y acceden a los productos sostenibles a través de estas plataformas.
 Estrategia de investigación:
@@ -50,16 +55,7 @@ Pruebas de usabilidad para observar cómo los usuarios navegan por el sitio web 
 Journey maps para obtener datos sobre la percepción de los usuarios respecto a la sostenibilidad y su experiencia de compra.
 Usuarios objetivo: Personas interesadas en productos ecológicos y sostenibles, que buscan apoyar mercados locales.
 El análisis de los datos permitirá ofrecer recomendaciones para mejorar la experiencia de usuario, optimizar la navegación y fomentar el consumo de productos ecológicos.
-
-
-
-
-
-### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+  
 
 
 ### 1.b Competitive Analysis
