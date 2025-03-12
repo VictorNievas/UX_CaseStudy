@@ -49,7 +49,7 @@ Objetivos:
 * Analizar las interacciones de los usuarios con plataformas de mercados ecológicos.
 * Identificar puntos de fricción y áreas de dificultad en la navegación.
 * Evaluar cómo la sostenibilidad y los productos ecológicos influyen en las decisiones de compra de los usuarios.
-* <br>
+<br>
 Métodos:
 * Entrevistas en profundidad con usuarios para comprender sus expectativas, necesidades y desafíos al interactuar con plataformas de mercados ecológicos.
 * Pruebas de usabilidad para observar cómo los usuarios navegan por el sitio web o la aplicación, y cómo completan tareas como realizar compras o obtener información.
