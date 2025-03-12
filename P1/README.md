@@ -34,3 +34,12 @@
 ## USABILITY REVIEW
 
 - Al realizar una reseña de usabilidad teniendo en cuanta la experiencia de nuestras personas ficticias, se puede ser más crítico con ámbitos en los que muchas otras personas tratarían como poco relevantes pero que afectan realmente a la experiencia de los usuarios. Para realizar este documento hay que ser capaces de evaluar cada pequeño detalle de la web y poder reflejar a la perfección lo que sería la usabilidad de la misma para cualquier tipo de usuario, sin importar sus circunstancias.
+
+
+## RESUMEN DE LA VALORACIÓN PRÁCTICA
+
+- El análisis de usabilidad y experiencia de usuario (UX) del sitio web de Valle&Vega ha permitido identificar sus fortalezas y áreas de mejora en términos de funcionalidad, navegación y accesibilidad. La evaluación incluyó un User Research Plan, un Competitor Analysis, 2 Personas Ficticias, 2 Journey Map y una revisión de usabilidad, proporcionando una visión completa de la interacción del usuario con la plataforma.
+  
+- Se destaca que el sitio cumple con los principios básicos de usabilidad, presentando una navegación estructurada y contenidos relevantes para su público objetivo. Sin embargo, se identificaron oportunidades de optimización en la claridad de llamadas a la acción, accesibilidad de la búsqueda y experiencia en dispositivos móviles. Además, se recomienda mejorar el feedback en procesos clave como el registro y la compra.
+  
+- En comparación con otros competidores, Valle&Vega fue seleccionado por su enfoque en el mercado ecológico y su potencial de optimización UX. Las recomendaciones proporcionadas buscan mejorar la conversión, fidelización y satisfacción del usuario.
