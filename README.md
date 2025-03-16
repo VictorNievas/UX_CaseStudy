@@ -42,23 +42,29 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-User Research Plan: Mercados Ecológicos <br>
+# User Research Plan: Mercados Ecológicos
+
+## Objetivo
 El objetivo de este proyecto es evaluar la usabilidad y experiencia de usuario en plataformas relacionadas con mercados ecológicos. Nos centraremos en cómo los usuarios interactúan con estos mercados, que ofrecen productos locales y ecológicos, para identificar barreras de navegación y áreas de mejora. La investigación busca entender cómo los consumidores perciben y acceden a los productos sostenibles a través de estas plataformas.
-Estrategia de investigación:
-<br>
-Objetivos:
-* Analizar las interacciones de los usuarios con plataformas de mercados ecológicos.
-* Identificar puntos de fricción y áreas de dificultad en la navegación.
-* Evaluar cómo la sostenibilidad y los productos ecológicos influyen en las decisiones de compra de los usuarios.
-<br>
-Métodos:
-*  Entrevistas en profundidad con usuarios para comprender sus expectativas, necesidades y desafíos al interactuar con plataformas de mercados ecológicos.
-*   Pruebas de usabilidad para observar cómo los usuarios navegan por el sitio web o la aplicación, y cómo completan tareas como realizar compras o obtener información.
-*   Journey maps para obtener datos sobre la percepción de los usuarios respecto a la sostenibilidad y su experiencia de compra.
-<br>
-Usuarios objetivo: Personas interesadas en productos ecológicos y sostenibles, que buscan apoyar mercados locales.
+
+## Estrategia de investigación
+
+### Objetivos
+- Analizar las interacciones de los usuarios con plataformas de mercados ecológicos.
+- Identificar puntos de fricción y áreas de dificultad en la navegación.
+- Evaluar cómo la sostenibilidad y los productos ecológicos influyen en las decisiones de compra de los usuarios.
+
+### Métodos
+- **Entrevistas en profundidad** con usuarios para comprender sus expectativas, necesidades y desafíos al interactuar con plataformas de mercados ecológicos.
+- **Pruebas de usabilidad** para observar cómo los usuarios navegan por el sitio web o la aplicación, y cómo completan tareas como realizar compras o obtener información.
+- **Journey maps** para obtener datos sobre la percepción de los usuarios respecto a la sostenibilidad y su experiencia de compra.
+
+### Usuarios objetivo
+Personas interesadas en productos ecológicos y sostenibles, que buscan apoyar mercados locales.
+
+## Análisis de datos
 El análisis de los datos permitirá ofrecer recomendaciones para mejorar la experiencia de usuario, optimizar la navegación y fomentar el consumo de productos ecológicos.
-  
+
 
 
 ### 1.b Competitive Analysis
