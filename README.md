@@ -41,9 +41,6 @@ Miembros:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-
-# User Research Plan: Mercados Ecológicos
-
 ## Objetivo
 El objetivo de este proyecto es evaluar la usabilidad y experiencia de usuario en plataformas relacionadas con mercados ecológicos. Nos centraremos en cómo los usuarios interactúan con estos mercados, que ofrecen productos locales y ecológicos, para identificar barreras de navegación y áreas de mejora. La investigación busca entender cómo los consumidores perciben y acceden a los productos sostenibles a través de estas plataformas.
 
