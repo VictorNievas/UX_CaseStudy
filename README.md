@@ -9,11 +9,11 @@ Actualizado: 26/02/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> EcoPick 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> EcoPick es una tienda online de productos ecológicos que te permite elegir lo mejor para ti y para el planeta. Con una selección cuidadosamente curada de alimentos orgánicos, productos sostenibles y alternativas eco-friendly, EcoPick te ayuda a hacer compras responsables de manera fácil y rápida.
 
 Logotipo: 
 
