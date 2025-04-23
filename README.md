@@ -17,7 +17,8 @@ Descripción:
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+>>> ![ChatGPT Image 2 abr 2025, 18_08_18](https://github.com/user-attachments/assets/35254ec5-2a03-4713-9782-fd8aad4ed006)
+
 
 Miembros:
  * :bust_in_silhouette:  AA     :octocat:     
