@@ -149,7 +149,7 @@ Este documento fue la brújula del proyecto. Nos ayudó a fijar el alcance, iden
 
 - Diseñamos una landing informativa con un enfoque mobile-first. En ella, el usuario puede entender rápidamente qué es ECO-PICK y por qué debería probarlo.  
 
-🌐 [Landing Page](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P3/Moodboard%20EcoPick%20.pdf)
+🌐 [Landing Page](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P3/Landing_Page.pdf)
 
   ![image](https://github.com/user-attachments/assets/f979138a-2133-4684-b41c-2e8af6233d6b)
 
