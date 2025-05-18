@@ -1,295 +1,178 @@
-# DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+# UX Case Study – ECOPICK
 
-[Guiones de prácticas](GuionesPracticas/)
+![ChatGPT Image 2 abr 2025, 18_08_18](https://github.com/user-attachments/assets/35254ec5-2a03-4713-9782-fd8aad4ed006)
 
-Grupo: DIU1_VNDV.  Curso: 2024/25 
+**Proyecto:** ECO-PICK  
+**Equipo:** Víctor Nievas y Daniel Viloria  
+**Curso:** Diseño de Interfaces de Usuario – 2024/25
 
-Actualizado: 26/02/2025
+**Descripción:**  
+- ECO-PICK es una plataforma web que promueve el consumo ecológico local mediante incentivos directos al usuario.
+  Cuantos más productos de proximidad se eligen, mayor es el descuento. Nuestra intención fue crear una propuesta que uniera sostenibilidad, economía circular y experiencia digital eficaz.
 
-Proyecto: 
+---
 
->>> EcoPick 
+## 1. Research y Descubrimiento
 
-Descripción: 
+### Desk Research: [Análisis Competitivo](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P1/Competitor%20Analysis.pdf)
+- Iniciamos el proyecto con un análisis de competidores.
+  Queríamos entender cómo funcionaban otras plataformas ecológicas y qué podríamos mejorar desde una perspectiva UX.
+  Analizamos [Ecojaral](https://ecojaral.com/) y [Valle&Vega](https://tienda.valleyvega.org/es/) en profundidad.  
 
->>> EcoPick es una tienda online de productos ecológicos que te permite elegir lo mejor para ti y para el planeta. Con una selección cuidadosamente curada de alimentos orgánicos, productos sostenibles y alternativas eco-friendly, EcoPick te ayuda a hacer compras responsables de manera fácil y rápida.
+### Personas y Journey Maps
+- Creamos dos perfiles ficticios de usuario con intereses y niveles digitales muy distintos. Para cada uno, diseñamos un recorrido por plataformas reales,
+  lo que nos ayudó a detectar oportunidades y puntos de fricción.
 
-Logotipo: 
+- [Marta García](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P1/Persona%20%231.png)
 
->>> ![ChatGPT Image 2 abr 2025, 18_08_18](https://github.com/user-attachments/assets/35254ec5-2a03-4713-9782-fd8aad4ed006)
-
-
-Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
------ 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
-# Proceso de Diseño 
-
-<br>
-
-## Paso 1. UX User & Desk Research & Analisis 
-
-
-### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
-## Objetivo
-El objetivo de este proyecto es evaluar la usabilidad y experiencia de usuario en plataformas relacionadas con mercados ecológicos. Nos centraremos en cómo los usuarios interactúan con estos mercados, que ofrecen productos locales y ecológicos, para identificar barreras de navegación y áreas de mejora. La investigación busca entender cómo los consumidores perciben y acceden a los productos sostenibles a través de estas plataformas.
-
-## Estrategia de investigación
-
-### Objetivos
-- Analizar las interacciones de los usuarios con plataformas de mercados ecológicos.
-- Identificar puntos de fricción y áreas de dificultad en la navegación.
-- Evaluar cómo la sostenibilidad y los productos ecológicos influyen en las decisiones de compra de los usuarios.
-
-### Métodos
-- **Entrevistas en profundidad** con usuarios para comprender sus expectativas, necesidades y desafíos al interactuar con plataformas de mercados ecológicos.
-- **Pruebas de usabilidad** para observar cómo los usuarios navegan por el sitio web o la aplicación, y cómo completan tareas como realizar compras o obtener información.
-- **Journey maps** para obtener datos sobre la percepción de los usuarios respecto a la sostenibilidad y su experiencia de compra.
-
-### Usuarios objetivo
-Personas interesadas en productos ecológicos y sostenibles, que buscan apoyar mercados locales.
-
-## Análisis de datos
-El análisis de los datos permitirá ofrecer recomendaciones para mejorar la experiencia de usuario, optimizar la navegación y fomentar el consumo de productos ecológicos.
-
-
-
-### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
------
-
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
-
-
-### 1.c Personas
-![Método UX](img/Persona.png) 
------
-
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
-
-### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
-----
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
-
-### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
-----
-
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
-
-<br>
-
-## Paso 2. UX Design  
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
-----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+  ![image](https://github.com/user-attachments/assets/47e3a10e-4be2-4fa5-a1cc-520fa0539449)
   
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+  [Journey Map](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P1/Journey%20Map%20%231.png)
 
+  ![image](https://github.com/user-attachments/assets/3e891b67-431f-4d98-aed3-e8a84e00f80e)
 
-### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
-----
+- [Miguel Ángel González](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P1/Persona%20%232.png)
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+  ![image](https://github.com/user-attachments/assets/1273dc57-39f3-498a-b629-fb6971a387e7)
+  
+  [Journey Map](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%202.pdf)
 
+  ![image](https://github.com/user-attachments/assets/7014ec7f-e3cc-419d-b7d5-ddf1d855d5b2)
 
 
-### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
------
+### Usabilidad Heurística
+- Hicimos una revisión heurística basada en los principios de Nielsen. Fue clave para evaluar la claridad, la estructura de navegación y la retroalimentación de las plataformas analizadas.  
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+📄 [Informe de usabilidad](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P1/Usability-review-Valle%26Vega.xlsx)
 
+---
 
-### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
-----
+## 2. Definición del Problema y Modelo de Solución
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+### Feedback Capture Grid  
+- Aquí recogimos los puntos de entrada, salida y contacto del usuario con el sistema. Este ejercicio nos ayudó a ordenar las necesidades de los usuarios y cómo podríamos responder a ellas con el producto.  
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+🧠 [Ver documento](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P2/Feedback%20Capture%20Grid%20-%20VNDV.pdf)
 
+ ![image](https://github.com/user-attachments/assets/2120e39f-9d68-4e8e-9529-9b28be2e75cf)
 
-### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
------
+### Mapa de Empatía  
+- Nos pusimos en la piel de nuestro usuario: ¿qué piensa? ¿qué siente? ¿qué dice y qué hace? Esto nos permitió alinear nuestra propuesta a motivaciones emocionales reales.
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+🎯 [Ver documento](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P2/Empathy_Customer_Map.pdf)
 
-<br>
+ ![image](https://github.com/user-attachments/assets/6325d72b-115f-4200-bd41-43d59997c0f1)
+  
 
-## Paso 3. Mi UX-Case Study (diseño)
+## Propuesta de valor: ¿Por qué elegir ECO-PICK?
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+**ECO-PICK transforma la compra ecológica al ofrecer descuentos exclusivos para quienes eligen productos de la misma región o localidad.**
 
+A diferencia de otras tiendas ecológicas, premiamos tu compromiso con lo local: cuantos más productos de tu zona elijas, mayores serán los descuentos.
 
-### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
+### Beneficios clave:
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+- ♻️ **Fomento del consumo responsable**
+   
+  Al seleccionar productos locales, se impulsa una cadena de consumo más sostenible y consciente.
 
+- 💼 **Apoyo a la economía local**
+  
+  Se fortalece a pequeños productores y comercios cercanos.
 
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
+- 🌍 **Reducción de la huella ecológica**
+  
+  Minimiza emisiones por transporte, alineándose con los principios ecológicos de la plataforma.
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+- 💸 **Ahorro en cada compra**
+  
+  La recompensa se traduce en descuentos proporcionales al compromiso del usuario con su entorno.
 
+---
 
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
+## 3. Arquitectura de Información y Tareas
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+### Scope Canvas  
+Este documento fue la brújula del proyecto. Nos ayudó a fijar el alcance, identificar actores clave y priorizar funcionalidades.  
 
+📐 [Scope Canvas](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P2/Scope%20Canvas.pdf)
 
-### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
+   ![image](https://github.com/user-attachments/assets/c00e7a86-0efe-49db-bee2-e893b101d078)
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+## ✅ Task Analysis
+  
+  Identificación y descomposición de las tareas necesarias que los usuarios deberán realizar en la plataforma.
+  Se representa en forma de árbol y se asocia con objetivos funcionales.
 
+- 📊 [User Task Matrix](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P2/Funcionalidades.xlsx)
 
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
+  ![image](https://github.com/user-attachments/assets/8ec8443f-edba-4208-8e5c-fca704e7edf1)
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+  Matriz que vincula tareas con perfiles de usuario, facilitando la asignación de funcionalidades relevantes a cada segmento.
 
-<br>
+- 🔄 [User/Task Flow](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P2/User%20Flow.pdf)
 
-## Paso 4. Pruebas de Evaluación 
+  ![image](https://github.com/user-attachments/assets/37938b39-f536-4507-bed6-780e8b403fcb)
+  
+  Diagrama de flujo que describe el recorrido que realiza el usuario al interactuar con la aplicación, desde el onboarding hasta el checkout.
 
-### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
+---
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+## Arquitectura de la información
 
+- 🌐 [Sitemap](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P2/SiteMap%20-VNDV.pdf)
 
+  ![image](https://github.com/user-attachments/assets/f09fe4a4-c0a1-49d8-8a6d-10d05c0d5353)
+  
+  Mapa jerárquico de las páginas y secciones que compondrán la plataforma ECO-PICK. Ayuda a estructurar la navegación y el contenido.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+- 🖼️ [Prototipo Lo-FI: Wireframe](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P2/Prototipos%20-%20VNDV.pdf)
 
+  ![image](https://github.com/user-attachments/assets/9360f2ad-650c-463a-b2a5-6dc91352aede)
 
-### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
+  Primeras representaciones visuales de baja fidelidad que plasman el layout base de pantallas clave.
+  Enfocados en estructura y jerarquía visual, sin estilos ni colores.
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+---
 
+## 4. Diseño Visual y Prototipado
 
+### Moodboard y Logotipo  
 
-### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
+- Buscábamos una identidad visual sencilla, cercana y con esencia ecológica. Desde la elección del color hasta la tipografía, cada decisión fue justificada con psicología visual.  
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+- 🎨 [Moodboard (Diseño visual + Logotipo)](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P3/Moodboard%20EcoPick%20.pdf)
+ 
+   ![image](https://github.com/user-attachments/assets/3b8fa6fc-adda-4771-a10a-9c9f83bd6988)
 
+### Landing Page  
 
-### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
+- Diseñamos una landing informativa con un enfoque mobile-first. En ella, el usuario puede entender rápidamente qué es ECO-PICK y por qué debería probarlo.  
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+🌐 [Landing Page](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P3/Moodboard%20EcoPick%20.pdf)
 
-### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
+  ![image](https://github.com/user-attachments/assets/f979138a-2133-4684-b41c-2e8af6233d6b)
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+### Mockups de Alta Fidelidad  
 
+- Nuestro prototipo en Figma representó visualmente todas las pantallas clave. Nos centramos en accesibilidad, jerarquía, e integración de patrones como onboarding, wizard de compra y carrusel de productos.  
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+ 🖼️ [Mockup: LAYOUT HI-FI](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P3/Layout%20%2B%20Simulacion%20-%20VNDV.pdf)
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+---
 
+## 5. Reflexión Final
 
-### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
+- ECO-PICK es el resultado de un proceso de diseño completo que nos permitió poner en práctica herramientas reales de trabajo UX/UI.
+  Desde los mapas de empatía hasta los prototipos en alta fidelidad, cada paso nos ayudó a profundizar en cómo resolver problemas de   forma humana, estructurada y creativa.
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+**Lo que aprendimos:**
+- Escuchar y modelar al usuario es clave antes de diseñar.
+- Prototipar en baja fidelidad ahorra tiempo y errores.
+- Los patrones visuales deben tener coherencia con la propuesta de valor.
+- El diseño centrado en el usuario siempre va de la mano con sostenibilidad, accesibilidad y claridad.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+Este proyecto nos ha motivado a seguir desarrollando soluciones con impacto y nos gustaría incluirlo en nuestro portafolio profesional.
 
-
-
-<br>
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
-## Conclusiones finales & Valoración de las prácticas
-
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
-
-
-
+_Equipo: Víctor Nievas y Daniel Viloria_
 
