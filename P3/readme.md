@@ -14,7 +14,7 @@ A continuación, se listan los entregables con enlaces directos a los archivos a
 
   Contiene la paleta cromática, referencias visuales, tipografía y logotipo propuesto para ECO-PICK. Este material establece la identidad visual de la marca.
 
-- 🌐 [Landing Page](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P3/Moodboard%20EcoPick%20.pdf)
+- 🌐 [Landing Page](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P3/Landing_Page.pdf)
 
   ![image](https://github.com/user-attachments/assets/f979138a-2133-4684-b41c-2e8af6233d6b)
 
