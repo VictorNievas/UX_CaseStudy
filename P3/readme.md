@@ -1,4 +1,4 @@
-# DIU - Práctica 3 · ECO-PICK
+# DIU - Práctica 3
 
 ## Entregables
 
