@@ -13,8 +13,8 @@ A continuación le mostramos una tabla con los usuarios que hemos registrado par
 Hemos realizado varias pruebas sobre los modelos A/B para poder obtener resultados tras su navegación.
 A contuación os dejamos los enlaces a dichas pruebas:
 
-- [Maze_A](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P4/Registro%20de%20usuarios.pdf)
-- [Maze_B](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P4/Registro%20de%20usuarios.pdf)
+- [Maze_A](https://t.maze.co/390037029)
+- [Maze_B](https://t.maze.co/393617396)
 
 ---
 
