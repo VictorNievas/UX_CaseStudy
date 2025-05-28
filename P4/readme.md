@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b1153329-f11d-4f9e-b606-9b897d2f7819)# DIU - Práctica 4
+## DIU - Práctica 4
 
 ## Users
 
