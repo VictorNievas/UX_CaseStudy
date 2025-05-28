@@ -1,17 +1,55 @@
-# DIU - Practica 4, entregables
+![image](https://github.com/user-attachments/assets/b1153329-f11d-4f9e-b606-9b897d2f7819)# DIU - Práctica 4
 
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
+## Users
 
-- Users. Elección y características de los usuarios reclutados
-- Diseño de las pruebas
-- Realización del Cuestionario SUS para usuarios y casos A y B.
-- Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
-- Usability Report del Caso B, con toda la información recabada del caso B
+A continuación le mostramos una tabla con los usuarios que hemos registrado para realizar los tests de ambos prototipos.
 
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-- Conclusiones
+-  [Users](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P4/Registro%20de%20usuarios.pdf)
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+---
+
+## Maze de los prototipos A/B
+
+Hemos realizado varias pruebas sobre los modelos A/B para poder obtener resultados tras su navegación.
+A contuación os dejamos los enlaces a dichas pruebas:
+
+- [Maze_A](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P4/Registro%20de%20usuarios.pdf)
+- [Maze_B](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P4/Registro%20de%20usuarios.pdf)
+
+---
+
+## Cuestionario SUS
+
+Hemos realizado varios cuestionarios SUS como este para obtener una valoracion sobre ambos prototipos.
+
+---
+
+
+## Tabla A/B Testing
+
+Tras realizar todos los test planteaos, hemos recopilado toda la información y la hemos comparado en ambos modelos.
+
+-  [A/B Testing](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P4/AB%20Testing.pdf)
+
+---
+
+
+## Eye Tracking
+
+Se ha realizado una pruba de visión sobre la web B, aquí adjunto una foto.
+
+![image](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P4/EyeTracking.png?raw=true)
+
+
+---
+
+
+## Usability Report
+
+Se ha evaluado los resultados sobre el modelo B y se ha hecho una reseña sobre el mismo la cual queda adjunta debajo.
+
+- [Usability Report](https://github.com/VictorNievas/UX_CaseStudy/blob/master/P4/Informe%20B.pdf)
+
+---
+
+_Equipo: Víctor Nievas y Daniel Viloria_
